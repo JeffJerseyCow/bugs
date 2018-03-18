@@ -1,0 +1,5 @@
+/home/jeff/code/bugs/gtk/mmtracer/build/CMakeFiles/edit_cache.dir
+/home/jeff/code/bugs/gtk/mmtracer/build/CMakeFiles/rebuild_cache.dir
+/home/jeff/code/bugs/gtk/mmtracer/build/src/CMakeFiles/edit_cache.dir
+/home/jeff/code/bugs/gtk/mmtracer/build/src/CMakeFiles/rebuild_cache.dir
+/home/jeff/code/bugs/gtk/mmtracer/build/src/CMakeFiles/mmtracer.dir
